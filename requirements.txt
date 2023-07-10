@@ -44,3 +44,14 @@ ipyleaflet
 # Python: plotting libraries (optional)
 plotly>=5,<6
 bqplot
+
+# kernel
+jupyterlite-pyodide-kernel
+
+# others
+jupyter-book
+matplotlib
+numpy
+ghp-import
+networkx
+pandas
