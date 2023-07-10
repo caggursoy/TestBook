@@ -55,3 +55,4 @@ numpy
 ghp-import
 networkx
 pandas
+ipycytoscape
